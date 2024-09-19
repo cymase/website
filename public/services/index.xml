@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Cymase</title>
+    <link>http://localhost:1313/services/</link>
+    <description>Recent content in Services on Cymase</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:15:26 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sustainable Material Consultancy</title>
+      <link>http://localhost:1313/services/consultancy/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      <guid>http://localhost:1313/services/consultancy/</guid>
+      <description>&lt;p&gt;We offer expert guidance on integrating mycelium-based materials into various industries, including design, architecture, fashion, and packaging. Our consultancy helps businesses reduce their environmental footprint by exploring eco-friendly and biodegradable alternatives to conventional materials.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Workshops and Training</title>
+      <link>http://localhost:1313/services/workshops/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      <guid>http://localhost:1313/services/workshops/</guid>
+      <description>&lt;p&gt;We conduct hands-on workshops for designers, entrepreneurs, and artists, providing practical knowledge on working with mycelium. These sessions cover the entire process, from cultivation to product development, empowering participants to adopt sustainable practices and innovate using natural materials.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Product Development and Prototyping</title>
+      <link>http://localhost:1313/services/development/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      <guid>http://localhost:1313/services/development/</guid>
+      <description>&lt;p&gt;We collaborate with businesses to prototype and develop custom mycelium-based products. Whether it&amp;rsquo;s sustainable packaging, eco-friendly textiles, or green building materials, our team supports you in creating innovative solutions that align with a circular economy.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
