@@ -1,14 +1,7 @@
 [
     {
         "name": "Github",
-        "link": "https://github.com/Benzyme-Ventures",
+        "link": "https://github.com/cymase",
         "image": "images/social/github.svg"
-    },
-   
-    {
-        "name": "Facebook",
-        "link": "https://www.facebook.com/BenzymeFoundation",
-        "image": "images/social/facebook.svg"
     }
-    
 ]
