@@ -4,7 +4,7 @@
     <title>Homepage on Cymase</title>
     <link>http://localhost:1313/</link>
     <description>Recent content in Homepage on Cymase</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:15:26 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -20,7 +20,7 @@
       <link>http://localhost:1313/team/cris/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       <guid>http://localhost:1313/team/cris/</guid>
-      <description>&lt;p&gt;With a background in sustainable design and mycelium, Cris founded Cymase to pioneer the use of mycelium as a key material for a greener future.&lt;/p&gt;</description>
+      <description>With a background in sustainable design and mycelium, Cris founded Cymase to pioneer the use of mycelium as a key material for a greener future.</description>
     </item>
     <item>
       <title>Workshops and Training</title>
@@ -41,14 +41,14 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Cymase is a pioneering startup focused on harnessing the potential of mycelium to drive sustainable innovation across industries. Founded by Cris Silva, an expert in sustainability and fungal biotechnology, Cymase aims to transform the way we create materials by offering hands-on workshops, consultancy, and product development services.&lt;/p&gt;&#xA;&lt;p&gt;Our mission is to empower designers, entrepreneurs, and innovators to adopt eco-friendly solutions that align with circular economy principles, building a future where sustainability and creativity thrive together.&lt;/p&gt;</description>
+      <description>Cymase is a pioneering startup focused on harnessing the potential of mycelium to drive sustainable innovation across industries. Founded by Cris Silva, an expert in sustainability and fungal biotechnology, Cymase aims to transform the way we create materials by offering hands-on workshops, consultancy, and product development services.&#xA;Our mission is to empower designers, entrepreneurs, and innovators to adopt eco-friendly solutions that align with circular economy principles, building a future where sustainability and creativity thrive together.</description>
     </item>
     <item>
       <title>Contact</title>
       <link>http://localhost:1313/contact/</link>
       <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
       <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;We’d love to hear from you!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Whether you have questions, want to learn more about Cymase, are interested in joining us, or would like to explore our workshops and collaboration opportunities, feel free to reach out via the email above. We&amp;rsquo;re always excited to connect with like-minded individuals and organizations passionate about sustainability and innovation.&lt;/p&gt;</description>
+      <description>We’d love to hear from you!&#xA;Whether you have questions, want to learn more about Cymase, are interested in joining us, or would like to explore our workshops and collaboration opportunities, feel free to reach out via the email above. We&amp;rsquo;re always excited to connect with like-minded individuals and organizations passionate about sustainability and innovation.</description>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>Page Not Found on Cymase</title>
     <link>http://localhost:1313/404/</link>
     <description>Recent content in Page Not Found on Cymase</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/404/index.xml" rel="self" type="application/rss+xml" />
   </channel>

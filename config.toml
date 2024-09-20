@@ -51,7 +51,7 @@ title = "Cymase"
     summary_large_truncate = 120 # How many characters to include in the summary of the team bios (large layout) before truncating
 
   [params.footer]
-    copyright_text = 'Created and maintain by <a class="Cymase" href="https://github.com/cymase">Cymase</a>. Illustrations by <a class="icon8" href="https://icons8.com/illustrations">icon8</a>.'
+    copyright_text = 'Created and maintained by <a class="Cymase" href="https://github.com/cymase">Cymase</a>. Illustrations by <a class="icon8" href="https://icons8.com/illustrations">icon8</a>.'
 
 
 [menu]

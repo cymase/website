@@ -4,7 +4,7 @@
     <title>Team on Cymase</title>
     <link>http://localhost:1313/team/</link>
     <description>Recent content in Team on Cymase</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Nov 2018 10:47:58 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/team/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/team/cris/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       <guid>http://localhost:1313/team/cris/</guid>
-      <description>&lt;p&gt;With a background in sustainable design and mycelium, Cris founded Cymase to pioneer the use of mycelium as a key material for a greener future.&lt;/p&gt;</description>
+      <description>With a background in sustainable design and mycelium, Cris founded Cymase to pioneer the use of mycelium as a key material for a greener future.</description>
     </item>
   </channel>
 </rss>
